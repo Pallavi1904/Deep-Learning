@@ -1,4 +1,4 @@
-# 🧠 Deep Learning Che
+# 🧠 Deep Learning 
 
 Welcome to the **Deep Learning Cheatsheets Repository** –  
 a well-organized collection of quick-reference guides for **deep learning concepts, architectures, algorithms, and best practices**.
@@ -28,7 +28,6 @@ The goal of this repository is to:
 - Feedforward Neural Networks
 - Activation Functions:
   - Sigmoid, Tanh, ReLU, Leaky ReLU, ELU
-  - Swish, GELU
 - Loss Functions:
   - Mean Squared Error (MSE)
   - Cross-Entropy Loss
