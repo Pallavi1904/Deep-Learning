@@ -31,5 +31,4 @@ The goal of this repository is to:
   - NumPy & Pandas  
   - Matplotlib & Seaborn  
   - Scikit-learn  
-
 ---
