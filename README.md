@@ -9,7 +9,7 @@ It is a collection of experiments, models, and hands-on implementations that cov
 The goal of this repository is to:
 - Learn and practice deep learning algorithms.
 - Explore real-world applications of Neural Networks.
-- Build models for computer vision, natural language processing, and other domains.
+- Build models for computer vision, natural language processing, and other domains. 
 - Document my journey in mastering **Deep Learning**.
 
 ---
